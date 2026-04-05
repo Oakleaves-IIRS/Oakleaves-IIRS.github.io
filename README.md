@@ -5,7 +5,11 @@
 My name is Suman Kumari. I am pursuing a PhD from the University of West London, focusing on Urban Green Infrastructure and Remote Sensing. 
 
 ## Skills
-Optical Remote Sensing
+Optical Remote Sensing,
 Microwave Remote Sensing
+
+## Research
+Urban Green Infrastructure Mapping and Monitoring,
+Cost-Benefit Assessment 
 
 
